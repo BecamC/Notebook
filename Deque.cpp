@@ -79,7 +79,7 @@ int main() {
     cout << "front: " << dq.front() << " | back: " << dq.back() << "\n"; // 0 | 2
     dq.pop_front();
     dq.pop_back();
-    dq.push_front(-1); 
+    dq.push_front(-1);
     dq.print();
     cout << "tamano: " << dq.size() << "\n";
 
