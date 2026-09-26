@@ -4,5 +4,6 @@ project(notebook)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(notebook
-        BinarySearchTree.cpp
-        )
+
+        Task3.cpp
+)
